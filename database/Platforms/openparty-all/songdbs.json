@@ -1,4 +1,4 @@
-{"Despacito": {
+{"APunk": {
     "artist": "Luis Fonsi & Daddy Yankee",
     "assets": {
       "nx": {
@@ -51,14 +51,14 @@
     "lyricsType": 0,
     "mainCoach": -1,
     "mapLength": 228.35299999999998,
-    "mapName": "Despacito",
+    "mapName": "APunk",
     "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp9\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"648085\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Despacito/Despacito_MapPreviewNoSoundCrop_LOW.vp9.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"621-1111\">\r\n\t\t\t\t\t<Initialization range=\"0-621\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1492590\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Despacito/Despacito_MapPreviewNoSoundCrop_MID.vp9.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"621-1111\">\r\n\t\t\t\t\t<Initialization range=\"0-621\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2984529\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Despacito/Despacito_MapPreviewNoSoundCrop_HIGH.vp9.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"621-1111\">\r\n\t\t\t\t\t<Initialization range=\"0-621\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"5942260\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Despacito/Despacito_MapPreviewNoSoundCrop_ULTRA.vp9.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"621-1118\">\r\n\t\t\t\t\t<Initialization range=\"0-621\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
     "mode": 6,
     "originalJDVersion": 2018,
     "packages": {
-      "mapContent": "Despacito_mapContent"
+      "mapContent": "APunk_mapContent"
     },
-    "parentMapName": "Despacito",
+    "parentMapName": "APunk",
     "skuIds": [
       "jd2018-nx-all",
       "jd2018-wiiu-noe",
@@ -89,7 +89,7 @@
       "Romantic",
       "Summer"
     ],
-    "title": "Despacito",
+    "title": "A Punk",
     "urls": {
       "jmcs://jd-contents/Despacito/Despacito_AudioPreview.ogg": "https://jd-s3.bc5f39.workers.dev/public/map/Despacito/Despacito_AudioPreview.ogg/b7e46bd256856fdf802aa84451015c90.ogg",
       "jmcs://jd-contents/Despacito/Despacito_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.bc5f39.workers.dev/public/map/Despacito/Despacito_MapPreviewNoSoundCrop_HIGH.vp8.webm/8e3c668453341a01db89e387ace8d1a3.webm",
