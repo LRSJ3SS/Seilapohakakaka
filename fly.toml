@@ -6,7 +6,27 @@
 app = 'seilapohakakaka'
 primary_region = 'gru'
 
-[build]
+[
+build
+]
+  builder = "dockerfile"
+
+[
+env
+]
+  PORT = "443"
+
+[[
+services
+]]
+  internal_port = 443
+  protocol = "tcp"
+
+  [[
+services.ports
+]]
+    port = 443
+    handlers = ["tls"]
 
 [[mounts]]
   source = 'data'
