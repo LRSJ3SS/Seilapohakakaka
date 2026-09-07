@@ -4,11 +4,11 @@
             "windows": "{Home}\\AppData\\Roaming\\openparty\\",
             "linux": "{Home}/.openparty/"
         },
-        "port": 443,
+        "port": 80,
         "forcePort": false,
         "isPublic": true,
-        "enableSSL": true,
-        "domain": "https://bomdia.justdance30days7.shop/",
+        "enableSSL": false,
+        "domain": "bomdia.justdance30days7.shop",
         "modName": "Just Dance Unlimited Mod",
         "serverstatus": {
             "isMaintenance": false,
